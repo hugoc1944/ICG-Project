@@ -14,3 +14,20 @@ body,
 body {
   background: white;
 }
+
+.visualization-button {
+  position: absolute;
+  bottom: 20px;
+  left: 20px;
+  padding: 10px 20px;
+  background-color: #007bff;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  font-size: 16px;
+}
+
+.visualization-button:hover {
+  background-color: #0056b3;
+}
