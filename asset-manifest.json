@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/static/css/main.6eac1dfb.css",
-    "main.js": "/static/js/main.ff5d17c9.js",
-    "index.html": "/index.html",
-    "main.6eac1dfb.css.map": "/static/css/main.6eac1dfb.css.map",
-    "main.ff5d17c9.js.map": "/static/js/main.ff5d17c9.js.map"
+    "main.css": "/ICG-Project/static/css/main.a406add7.css",
+    "main.js": "/ICG-Project/static/js/main.28176feb.js",
+    "index.html": "/ICG-Project/index.html",
+    "main.a406add7.css.map": "/ICG-Project/static/css/main.a406add7.css.map",
+    "main.28176feb.js.map": "/ICG-Project/static/js/main.28176feb.js.map"
   },
   "entrypoints": [
-    "static/css/main.6eac1dfb.css",
-    "static/js/main.ff5d17c9.js"
+    "static/css/main.a406add7.css",
+    "static/js/main.28176feb.js"
   ]
 }
