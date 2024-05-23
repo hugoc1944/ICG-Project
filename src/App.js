@@ -15,9 +15,8 @@ import { useControls } from 'leva';
 import { RGBELoader } from 'three-stdlib';
 import * as THREE from 'three';
 import { Vector3, Euler } from 'three';
-import './styles.css'; // Assuming you renamed App.css to styles.css
+import './styles.css';
 
-// Define the cubicEaseInOut function at the beginning
 function cubicEaseInOut(t) {
   return t < 0.5 ? 4 * t * t * t : 1 - Math.pow(-2 * t + 2, 3) / 2;
 }
